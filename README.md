@@ -18,15 +18,19 @@ Tecnologias Utilizadas
 - Google Colab
 - GitHub
 
+
 Estrutura do Repositório
 ------------------------
-TelecomX_Churn/
-│
-├── notebooks/
-│   └── TelecomX_Churn.ipynb   # Notebook principal (ETL + EDA + Insights)
-├── data/
-│   └── telecomx_clean.csv     # Dataset tratado e pronto para modelagem
-└── README.md                  # Documentação do projeto
+
+notebooks
+    TelecomX_Churn.ipynb   → Notebook principal (ETL + EDA + Insights)
+
+data
+    telecomx_clean.csv     → Dataset tratado e pronto para modelagem
+
+README.md
+    Documentação do projeto
+
 
 Pipeline de Trabalho
 --------------------
